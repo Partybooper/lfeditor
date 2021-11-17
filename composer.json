@@ -1,12 +1,12 @@
 {
-    "name": "Partybooper/lfeditor",
+    "name": "partybooper/lfeditor",
     "type": "typo3-cms-extension",
     "description": "Language File Editor",
     "homepage": "https://www.sgalinski.de",
     "license": [
         "GPL-2.0-or-later"
     ],
-    "version": "6.0.1",
+    "version": "6.0.3",
     "support": {
         "issues": "https://gitlab.sgalinski.de/typo3/lfeditor/issues",
         "source": "https://gitlab.sgalinski.de/typo3/lfeditor/"
