@@ -1,5 +1,5 @@
 {
-    "name": "sgalinski/lfeditor",
+    "name": "Partybooper/lfeditor",
     "type": "typo3-cms-extension",
     "description": "Language File Editor",
     "homepage": "https://www.sgalinski.de",
@@ -12,7 +12,7 @@
         "source": "https://gitlab.sgalinski.de/typo3/lfeditor/"
     },
     "require": {
-        "typo3/cms-core": "^9.5.2 || ^10.4.0"
+        "typo3/cms-core": "^9.5.2 || ^10.4.0 || ^11.5.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master"
